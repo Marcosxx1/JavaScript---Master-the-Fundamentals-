@@ -42,6 +42,8 @@ async function main() {
     scanner.close();
 }
 
+
+
 main();
 
 async function leVetor() {
